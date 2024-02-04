@@ -1,13 +1,10 @@
-
 <h1 align="center">todoList with redux-toolkit</h1>
 
 ![demo](https://github.com/Ela-Fhd/todoList_RTK_02/blob/main/src/assets/demo/demo-1.png)
 -
-
-
 ![demo](https://github.com/Ela-Fhd/todoList_RTK_02/blob/main/src/assets/demo/demo-2.png)
 
-  - &#128204;<a href="https://todolistwithrtkandjsonserver.netlify.app/" >Demo</a>
+  - &#128204;<a href="https://todolist-with-react-reduxtookit-async.netlify.app/" >Demo</a>
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : january 2024
   - Iranian users who want to see my project online must first connect to VPN!
